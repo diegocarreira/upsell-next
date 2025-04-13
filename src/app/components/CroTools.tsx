@@ -46,7 +46,7 @@ export const CroTools = () => {
                   onClick={() => selectVariant(1)}
                   className="w-full text-left px-3 py-2 rounded-md hover:bg-blue-50 text-sm transition-colors"
                 >
-                  Hypothesis 1 - Variant A
+                  Hypothesis 1 - Variation A (Control)
                 </button>
               </li>
               <li>
@@ -54,7 +54,7 @@ export const CroTools = () => {
                   onClick={() => selectVariant(2)}
                   className="w-full text-left px-3 py-2 rounded-md hover:bg-blue-50 text-sm transition-colors"
                 >
-                  Hypothesis 1 - Variant B
+                  Hypothesis 1 - Variation B
                 </button>
               </li>
 
@@ -67,7 +67,7 @@ export const CroTools = () => {
                   onClick={() => selectVariant(3)}
                   className="w-full text-left px-3 py-2 rounded-md hover:bg-blue-50 text-sm transition-colors"
                 >
-                  Hypothesis 2 - Variant A
+                  Hypothesis 2 - Variation A (Control)
                 </button>
               </li>
               <li>
@@ -75,7 +75,7 @@ export const CroTools = () => {
                   onClick={() => selectVariant(4)}
                   className="w-full text-left px-3 py-2 rounded-md hover:bg-blue-50 text-sm transition-colors"
                 >
-                  Hypothesis 2 - Variant B
+                  Hypothesis 2 - Variation B
                 </button>
               </li>
 
@@ -88,7 +88,7 @@ export const CroTools = () => {
                   onClick={() => selectVariant(5)}
                   className="w-full text-left px-3 py-2 rounded-md hover:bg-blue-50 text-sm transition-colors"
                 >
-                  Hypothesis 3 - Variant A
+                  Hypothesis 3 - Variation A (Control)
                 </button>
               </li>
               <li>
@@ -96,7 +96,7 @@ export const CroTools = () => {
                   onClick={() => selectVariant(6)}
                   className="w-full text-left px-3 py-2 rounded-md hover:bg-blue-50 text-sm transition-colors"
                 >
-                  Hypothesis 3 - Variant B
+                  Hypothesis 3 - Variation B
                 </button>
               </li>
             </ul>
