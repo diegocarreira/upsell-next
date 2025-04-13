@@ -1,8 +1,3 @@
-TO DO:
-- style the front-face cards better
-- write readme docs (use aider)
-- Thank you page
-
 # E-commerce Upsell Page
 
 A high-converting, standalone upsell page designed to boost checkout revenue, average order value (AOV), and customer satisfaction through engaging, interactive elements and personalized offers.
