@@ -65,7 +65,7 @@ src/
 ### Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/diegocarreira/upsell-next.git
 
 # Install dependencies
 npm install
