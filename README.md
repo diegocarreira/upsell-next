@@ -118,6 +118,7 @@ npm run start
 - **Hypothesis 3:** Making the secondary CTA more explicit would discourage customers if missing the offer.
     - **Variation A:** 
     **Secondary CTA says**: Decline Offer
+    - **Variation B:**  
     **Secondary CTA says**: No Thanks, I'll Miss This one-time exclusive Offer
 
 ---
