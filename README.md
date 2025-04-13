@@ -108,20 +108,20 @@ npm run start
 ## 🔬 A/B Testing
 Here are 3 A/B testing hypotheses for the upsell page with their respective variants:
 - **Hypothesis 1:** Making clear to user that the gift is gonna be a discount VS keeping the mystery about the gift.
-    - **Variant A (Surprise gift):**
+    - **Variation A (Surprise gift):**
     **Title says**: 🎁 Pick a Mystery Card to Reveal Your Special Gift!
     **Subtitle says**: Choose wisely... a special surprise is hiding behind one of these cards 🤞
 
-    - **Variant B (Discount mentioned):**
+    - **Variation B (Discount mentioned):**
     **Title says**: 🎁 Ready to Play? Your Mystery Discount is Just One Click Away!
     **Subtitle says**: Three cards, one amazing reward. Make your choice and discover your exclusive shopping bonus!
 
 - **Hypothesis 2:** Showing social proof within the products (aiming to increase conversion rate by building trust before the purchase decision).
-    - **Variant A:** No social proof displayed
-    - **Variant B:** Yes - social proof displayed in the products
+    - **Variation A:** No social proof displayed
+    - **Variation B:** Yes - social proof displayed in the products
 
 - **Hypothesis 3:** Making the secondary CTA more explicit would discourage customers if missing the offer.
-    - **Variant A:** 
+    - **Variation A:** 
     **Secondary CTA says**: Decline Offer
     **Secondary CTA says**: No Thanks, I'll Miss This one-time exclusive Offer
 
