@@ -101,7 +101,7 @@ npm run start
 ---
 
 ## 🔬 A/B Testing
-Here are 3 A/B testing hypotheses for the upsell page with their respective variants:
+
 - **Hypothesis 1:** Making clear to user that the gift is gonna be a discount VS keeping the mystery about the gift.
     - **Variation A (Surprise gift):**
     **Title says**: 🎁 Pick a Mystery Card to Reveal Your Special Gift!
