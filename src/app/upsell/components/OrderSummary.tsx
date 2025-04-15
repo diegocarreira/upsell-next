@@ -8,6 +8,11 @@ export const OrderSummary = ({ totals }: { totals: OrderTotals }) => {
 
       <div className="space-y-3">
         <div className="flex justify-between">
+          <span className="text-gray-600">Items:</span>
+          <span className="text-gray-800 font-medium ">{totals.quantity}</span>
+        </div>
+
+        <div className="flex justify-between">
           <span className="text-gray-600">Standard Price:</span>
           <span className="text-gray-800 font-medium line-through">
             ${totals.originalTotal}
