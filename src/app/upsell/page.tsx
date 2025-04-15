@@ -76,6 +76,7 @@ export default function UpsellPage() {
     const savings = originalTotal - discountedTotal;
 
     return {
+      quantity: selected.length,
       originalTotal: originalTotal.toFixed(2),
       discountedTotal: discountedTotal.toFixed(2),
       shippingHandlingTotal: shippingHandlingTotal.toFixed(2),
@@ -141,7 +142,7 @@ export default function UpsellPage() {
           <p className="text-lg text-gray-600">{data.subtitle}</p>
         </header>
 
-        <div className="container mx-auto w-full lucky-cards-container">
+        <div className="container mx-auto w-full sm:py-8 md:py-8 lg:py-8 xl:py-8 lucky-cards-container">
           <LuckyCards />
         </div>
 
@@ -198,15 +199,13 @@ export const OfferContent = ({
             }}
             className={`w-full py-4 mb-4 ${
               selectedProducts.length > 0
-                ? "bg-blue-500 hover:bg-blue-600"
+                ? "bg-blue-500 hover:bg-blue-600 min-h-[90px]"
                 : "bg-gray-400"
             } text-white font-bold rounded-lg transition duration-200 text-lg shadow-md cursor-pointer`}
             disabled={selectedProducts.length === 0}
           >
             {selectedProducts.length > 0
-              ? `${data.primaryCTA} (${selectedProducts.length} item${
-                  selectedProducts.length > 1 ? "s" : ""
-                })`
+              ? `${data.primaryCTA}`
               : "Select at least one product to continue"}
           </button>
           <Link href="/thankyou">

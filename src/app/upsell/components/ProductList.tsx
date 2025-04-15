@@ -23,12 +23,12 @@ export const ProductList = ({
             className={`border rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-200 flex flex-col cursor-pointer relative
                     ${
                       isSelected
-                        ? "border-green-500 border-2 bg-green-50"
+                        ? "border-green-500 bg-green-50"
                         : "border-slate-200"
                     }`}
           >
             {product.bestSeller && (
-              <div className="bg-purple-300 text-black font-bold text-xs uppercase tracking-wider py-1 px-2 rounded-xl self-start mb-2">
+              <div className="bg-purple-300 text-black font-bold text-xs uppercase tracking-wider py-1 px-2 rounded-xl self-start mt-2 ml-2 absolute">
                 Best Seller
               </div>
             )}
@@ -66,7 +66,7 @@ export const ProductList = ({
             <p className="text-sm text-gray-600 mb-3">{product.description}</p>
 
             {/* Pricing */}
-            <div className="flex items-center mb-3">
+            <div className="flex items-baseline mb-3">
               <span className="text-[1rem] text-red-500 font-bold line-through mr-2">
                 ${product.originalPrice.toFixed(2)}
               </span>
@@ -76,7 +76,7 @@ export const ProductList = ({
                   S&H ${product.shippingHandling.toFixed(2)}
                 </span>
               </span>
-              <span className="ml-4 text-green-600 text-sm">
+              <span className="ml-4 text-green-600 text-[1rem]">
                 Save ${product.savings.toFixed(2)}
               </span>
             </div>

@@ -123,7 +123,7 @@ const variants: UpsellData[] = [
   control, // variant 5
   {
     ...control,
-    secondaryCTA: "No Thanks, I'll Miss This one-time exclusive Offer",
+    secondaryCTA: "No Thanks, I'll Miss This One-Time Exclusive Offer",
   }, // variant 6
 ];
 
