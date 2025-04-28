@@ -115,7 +115,7 @@ npm run start
     - **Variation A:** No social proof displayed
     - **Variation B:** Yes - social proof displayed in the products
 
-- **Hypothesis 3:** Making the secondary CTA more explicit would discourage customers if missing the offer.
+- **Hypothesis 3:** Making the secondary CTA more explicit would discourage customers of missing the offer.
     - **Variation A:** 
     **Secondary CTA says**: Decline Offer
     - **Variation B:**  
@@ -132,7 +132,7 @@ npm run start
 
 - **Revealed state**
 
-Revealed state (no products seelcted)  |  Revealed state (products seelcted)
+Revealed state (no products seelcted)  |  Revealed state (products selected)
 :-------------------------------------:|:-------------------------:
 ![my-cards-upsell-2](https://github.com/user-attachments/assets/d78184bc-ea10-4808-b4d4-1112bb022f1d)    |  ![screencapture-localhost-3001-upsell-2025-04-28-11_13_17](https://github.com/user-attachments/assets/309116e4-5ff4-4683-bb9b-47553d098fb0)
 
