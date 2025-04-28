@@ -123,5 +123,17 @@ npm run start
 
 ---
 
+**Screenshots:**
+
+- Unrevealed state:
+![my-cards-upsell-1](https://github.com/user-attachments/assets/23982e79-d4b5-4045-8785-491f5de73722)
+
+
+- Revealed state
+![my-cards-upsell-2](https://github.com/user-attachments/assets/d78184bc-ea10-4808-b4d4-1112bb022f1d)
+
+
+---
+
 ## 📝 License
 MIT License
