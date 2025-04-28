@@ -125,11 +125,21 @@ npm run start
 
 ## Screenshots:
 
+- **Unrevealed state**:
 
-Unrevealed state  | Revealed state (no products seelcted)  |  Revealed state (products seelcted) | Thank you page
-:-------------------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![my-cards-upsell-1](https://github.com/user-attachments/assets/23982e79-d4b5-4045-8785-491f5de73722) | ![my-cards-upsell-2](https://github.com/user-attachments/assets/d78184bc-ea10-4808-b4d4-1112bb022f1d)    |  ![screencapture-localhost-3001-upsell-2025-04-28-11_13_17](https://github.com/user-attachments/assets/309116e4-5ff4-4683-bb9b-47553d098fb0) | ![Screenshot 2025-04-28 at 11 14 27](https://github.com/user-attachments/assets/21d0cc11-d45c-476c-af50-7a6940a7182c)
+![my-cards-upsell-1](https://github.com/user-attachments/assets/23982e79-d4b5-4045-8785-491f5de73722)
 
+
+- **Revealed state**
+
+Revealed state (no products seelcted)  |  Revealed state (products seelcted)
+:-------------------------------------:|:-------------------------:
+![my-cards-upsell-2](https://github.com/user-attachments/assets/d78184bc-ea10-4808-b4d4-1112bb022f1d)    |  ![screencapture-localhost-3001-upsell-2025-04-28-11_13_17](https://github.com/user-attachments/assets/309116e4-5ff4-4683-bb9b-47553d098fb0)
+
+
+- **Thank you page**:
+
+![Screenshot 2025-04-28 at 11 14 27](https://github.com/user-attachments/assets/21d0cc11-d45c-476c-af50-7a6940a7182c)
 
 
 ---
